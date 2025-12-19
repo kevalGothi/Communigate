@@ -1,19 +1,18 @@
 # 🏢 CommuniGate
 
-[cite_start]**CommuniGate** is a professional, web-based Society Management System developed to modernize residential administration[cite: 7]. [cite_start]This platform streamlines communication and operational workflows across three distinct user hierarchies: Admins, Staff, and Residents[cite: 7, 8, 9, 10].
+**CommuniGate** is a professional, web-based Society Management System developed to modernize residential administration[cite: 7]. [cite_start]This platform streamlines communication and operational workflows across three distinct user hierarchies: Admins, Staff, and Residents.
 
 🔗 **Live Production URL:** [https://communigate.great-site.net/](https://communigate.great-site.net/)
 
 ---
 
 ## ✨ Key Features
-
-* [cite_start]**🛡️ Admin Control Center**: Centralized dashboard to manage user roles, monitor maintenance funds, and oversee system-wide settings[cite: 8].
-* [cite_start]**👤 Resident Interface**: A private portal for residents to view society information, manage their profiles, and interact with services[cite: 9, 224].
-* [cite_start]**💼 Staff Operations**: Dedicated tools for security personnel and staff to manage visitor logs and daily tasks efficiently[cite: 10, 27, 371].
-* [cite_start]**⚙️ Full CRUD Capabilities**: Seamless data management for members, staff, announcements, and billing records[cite: 11].
-* [cite_start]**💸 Maintenance Management**: Automated billing and tracking system for society dues[cite: 22, 234].
-* [cite_start]**🚧 Gate Security**: Real-time visitor tracking and approval workflows[cite: 20, 29, 371].
+**🛡️ Admin Control Center**: Centralized dashboard to manage user roles, monitor maintenance funds, and oversee system-wide settings[cite: 8].
+**👤 Resident Interface**: A private portal for residents to view society information, manage their profiles, and interact with services[cite: 9, 224].
+**💼 Staff Operations**: Dedicated tools for security personnel and staff to manage visitor logs and daily tasks efficiently[cite: 10, 27, 371].
+**⚙️ Full CRUD Capabilities**: Seamless data management for members, staff, announcements, and billing records[cite: 11].
+**💸 Maintenance Management**: Automated billing and tracking system for society dues[cite: 22, 234].
+**🚧 Gate Security**: Real-time visitor tracking and approval workflows[cite: 20, 29, 371].
 
 ---
 

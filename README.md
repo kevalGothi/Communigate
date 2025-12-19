@@ -1,18 +1,18 @@
 # 🏢 CommuniGate
 
-**CommuniGate** is a professional, web-based Society Management System developed to modernize residential administration[cite: 7]. [cite_start]This platform streamlines communication and operational workflows across three distinct user hierarchies: Admins, Staff, and Residents.
+**CommuniGate** is a professional, web-based Society Management System developed to modernize residential administration. This platform streamlines communication and operational workflows across three distinct user hierarchies: Admins, Staff, and Residents.
 
 🔗 **Live Production URL:** [https://communigate.great-site.net/](https://communigate.great-site.net/)
 
 ---
 
 ## ✨ Key Features
-**🛡️ Admin Control Center**: Centralized dashboard to manage user roles, monitor maintenance funds, and oversee system-wide settings[cite: 8].
-**👤 Resident Interface**: A private portal for residents to view society information, manage their profiles, and interact with services[cite: 9, 224].
-**💼 Staff Operations**: Dedicated tools for security personnel and staff to manage visitor logs and daily tasks efficiently[cite: 10, 27, 371].
-**⚙️ Full CRUD Capabilities**: Seamless data management for members, staff, announcements, and billing records[cite: 11].
-**💸 Maintenance Management**: Automated billing and tracking system for society dues[cite: 22, 234].
-**🚧 Gate Security**: Real-time visitor tracking and approval workflows[cite: 20, 29, 371].
+**🛡️ Admin Control Center**: Centralized dashboard to manage user roles, monitor maintenance funds, and oversee system-wide settings.
+**👤 Resident Interface**: A private portal for residents to view society information, manage their profiles, and interact with services.
+**💼 Staff Operations**: Dedicated tools for security personnel and staff to manage visitor logs and daily tasks efficiently.
+**⚙️ Full CRUD Capabilities**: Seamless data management for members, staff, announcements, and billing records.
+**💸 Maintenance Management**: Automated billing and tracking system for society dues.
+**🚧 Gate Security**: Real-time visitor tracking and approval workflows.
 
 ---
 
@@ -20,9 +20,9 @@
 
 | Layer | Technology |
 | :--- | :--- |
-| **Frontend** | [cite_start]HTML5, CSS3, JavaScript [cite: 15] |
-| **Backend** | [cite_start]PHP (Modernized logic) [cite: 15] |
-| **Database** | [cite_start]MySQL / MariaDB [cite: 15, 16] |
+| **Frontend** | [cite_start]HTML5, CSS3, JavaScript  |
+| **Backend** | [cite_start]PHP (Modernized logic)  |
+| **Database** | [cite_start]MySQL / MariaDB  |
 | **UI Framework** | Tailwind CSS (v3.4+) & Lucide Icons |
 
 ---
